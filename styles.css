@@ -1,0 +1,10 @@
+body{
+    text-align: left;
+    font-size: 1.5rem;
+    margin-top: 2rem;
+    background-image: url(https://www.kurier.de/media.media.9926e3d0-66bf-4de6-8c25-8917f65f3051.original1920.jpg);
+}
+
+.result{
+    text-align: right;
+}
